@@ -1,0 +1,146 @@
+[
+    {
+        "name": "Pendrives",
+        "type": "expense",
+        "amount": 20050,
+        "id": 3
+      },
+      {
+        "name": "Salary from facebook",
+        "type": "income",
+        "amount": 500000,
+        "id": 4
+      },
+      {
+        "name": "Salary from google",
+        "type": "income",
+        "amount": 300000,
+        "id": 5
+      },
+      {
+        "name": "own Income",
+        "type": "income",
+        "amount": 30000,
+        "id": 6
+      },
+      {
+        "name": "Pendrive",
+        "type": "expense",
+        "amount": 650,
+        "id": 7
+      },
+      {
+        "name": "Keyboard",
+        "type": "expense",
+        "amount": 1200,
+        "id": 8
+      },
+      {
+        "name": "June month salary",
+        "type": "income",
+        "amount": 50000,
+        "id": 9
+      },
+      {
+        "name": "Health checkup",
+        "type": "expense",
+        "amount": 4500,
+        "id": 10
+      },
+      {
+        "name": "Salary from facebook",
+        "type": "income",
+        "amount": 200000,
+        "id": 11
+      },
+      {
+        "name": "Pendrive",
+        "type": "expense",
+        "amount": 50000,
+        "id": 12
+      },
+      {
+        "name": "Electric bill",
+        "type": "expense",
+        "amount": 2000,
+        "id": 13
+      },
+      {
+        "name": "Salary from June month",
+        "type": "income",
+        "amount": 30000,
+        "id": 17
+      },
+      {
+        "name": "Salary from July",
+        "type": "income",
+        "amount": 35000,
+        "id": 18
+      },
+      {
+        "name": "Utility bill",
+        "type": "expense",
+        "amount": 10000,
+        "id": 19
+      },
+      {
+        "name": "own Income",
+        "type": "income",
+        "amount": 30000,
+        "id": 21
+      },
+      {
+        "name": "Salary from facebook",
+        "type": "income",
+        "amount": 20000,
+        "id": 22
+      },
+      {
+        "name": "Salary from youtube",
+        "type": "income",
+        "amount": 40000,
+        "id": 23
+      },
+      {
+        "name": "Random",
+        "type": "expense",
+        "amount": 5000,
+        "id": 24
+      },
+      {
+        "name": "salary ",
+        "type": "income",
+        "amount": 40000,
+        "id": 26
+      },
+      {
+        "name": "August month salary",
+        "type": "income",
+        "amount": 40000,
+        "id": 27
+      },
+      {
+        "name": "Shopping",
+        "type": "expense",
+        "amount": 20000,
+        "id": 28
+      },
+      {
+        "name": "Medicine",
+        "type": "expense",
+        "amount": 5000,
+        "id": 29
+      },
+      {
+        "name": "own salary",
+        "type": "income",
+        "amount": 100000,
+        "id": 30
+      },
+      {
+        "name": "Mouse Buy",
+        "type": "expense",
+        "amount": 5000,
+        "id": 31
+      }
+]
